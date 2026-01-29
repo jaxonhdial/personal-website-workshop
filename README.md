@@ -14,13 +14,11 @@ All scripts can be found in `package.json` under `scripts`. The two you really n
 You can run either by prepending `npm run <script>` to them. For example, `npm run dev` run the `dev` script.
 
 ### Useful links
-Typescript docs: https://www.typescriptlang.org/docs/
-Tailwind CSS cheat sheet: https://nerdcave.com/tailwind-cheat-sheet
-More of a guide then a cheat sheet, but here's one for React: https://github.com/HassanHabibTahir/React-cheatsheet
-(as a side note, personal websites, and especially homepages, won't need anything super complicated in React)
-
-Next/Link is great for adding links: https://nextjs.org/docs/app/api-reference/components/link
-Next/Image is great for adding images: https://nextjs.org/docs/app/api-reference/components/image
+- Tailwind CSS cheat sheet: https://nerdcave.com/tailwind-cheat-sheet
+- More of a guide then a cheat sheet, but here's one for React: https://github.com/HassanHabibTahir/React-cheatsheet (as a side note, personal websites, and especially homepages, won't need anything super complicated in React)
+- Next/Link is great for adding links: https://nextjs.org/docs/app/api-reference/components/link
+- Next/Image is great for adding images: https://nextjs.org/docs/app/api-reference/components/image
+- Here's some info on how to create subpages with Next.js App Router: https://nextjs.org/docs/app/getting-started/layouts-and-pages
 
 # Getting Started
 1. Fork this repo. Ensure your fork is public.
