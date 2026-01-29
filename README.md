@@ -5,6 +5,23 @@ This repo uses `npm` for package management. This should be installed along with
 
 The teck stack for the website is React + Next.js using TypeScript and Tailwind CSS. It also uses a linter, ESLint, for style-checking.
 
+### How to Fork and Clone This Repo Locally
+First, navigate to the original GitHub repository in your browser and click the **Fork** button in the top-right corner. Choose your GitHub account as the destination. This creates a copy of the repository under your account.
+
+Next, clone your fork to your local machine:
+
+1. Go to your forked repository on GitHub.
+2. Click the **Code** button and copy the HTTPS URL.
+3. Ensure you are in the correct directory on your machine
+4. Open a terminal and run:
+   ```bash
+   git clone <PASTE_REPO_URL_HERE>
+   ```
+   For example
+   ```bash
+   git clone https://github.com/your-username/repo-name.git
+   ```
+   
 ### How to use this repo
 All scripts can be found in `package.json` under `scripts`. The two you really need to care about are `dev` and `lint`.
 
