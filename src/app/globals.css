@@ -24,3 +24,67 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Terraria-style home menu sky */
+.terraria-sky {
+  background: linear-gradient(
+    180deg,
+    #0a1628 0%,
+    #1a2d4a 15%,
+    #2d4a6e 35%,
+    #4a6fa5 55%,
+    #6b8cae 70%,
+    #8b7355 85%,
+    #6b5344 100%
+  );
+}
+
+/* Mike Scott yellow rock wallpaper easter egg - uses the gif as full background */
+.yellow-rock-wallpaper {
+  background-color: #b8954a;
+  background-image: url("/yellow_rock.gif");
+  background-size: cover;
+  background-position: center;
+}
+
+/* CS314-style easter egg page - classic UT Austin / FrontPage look */
+.cs314-style {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #000;
+}
+
+.cs314-title {
+  font-size: 2rem; /* ~font size="7" feel */
+  margin: 0;
+  font-weight: bold;
+}
+
+.cs314-subtitle {
+  font-size: 1.25rem;
+  margin: 0.25rem 0 0;
+}
+
+.cs314-body {
+  font-size: 1rem;
+  margin: 1rem 0;
+  line-height: 1.4;
+}
+
+.cs314-heading {
+  font-size: 1rem;
+  font-weight: bold;
+  margin: 1rem 0 0.5rem;
+}
+
+.cs314-link {
+  text-decoration: none;
+  color: #000;
+}
+
+.cs314-link:hover {
+  text-decoration: underline;
+}
+
+.cs314-style .cs314-link {
+  font-size: 1.1rem; /* ~size="5" */
+}

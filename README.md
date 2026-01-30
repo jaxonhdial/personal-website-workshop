@@ -46,8 +46,16 @@ You can run either by prepending `npm run <script>` to them. For example, `npm r
 # Questions - MUST ANSWER TO BE ENTERED INTO RAFFLE!
 1. Briefly describe everything you've added on from the starter template.
 
+I've added new fonts that are inspired by Terraria's main menu. I've also added an easter egg with the sun that takes you to a page that mimics Mike Scott's home page.
+
 2. What's the first impression you want a website visitor to have about you? How does your website accomplish that?
+
+I want the website visitor to see the fun fonts and fun background and see that I'm a fun, bubbly person. Also, I want everybody who's in UTCS to recognize the easter egg of the yellow rock wall paper to have a fun inside joke.
 
 3. What's your favorite part of the website you've made? What needs improvement?
 
+The easter egg page is a lot of fun. Currently everything has been vibe coded and none of the actual content has been changed, so that needs to be worked on.
+
 4. Where would you take your website in the future? Talk about additonal sections, aspirations, etc.
+
+I'll add sections for my projects and add information about myself to the about section. Additionally, I want to link my UIL Analyzer website to that section when it's finished, so people can easily go to the project I'm most proud of.
