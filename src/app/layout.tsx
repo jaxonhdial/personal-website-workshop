@@ -19,8 +19,11 @@ const fredoka = Fredoka({
 });
 
 export const metadata: Metadata = {
-  title: "My personal website",
-  description: "For texas acm personal webdev workshop",
+  title: "Jaxon Dial Personal Website",
+  description: "Jaxon Dial's personal website",
+  icons: {
+    icon: "/Mike-Scott.png",
+  },
 };
 
 export default function RootLayout({
