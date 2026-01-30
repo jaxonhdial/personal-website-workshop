@@ -1,4 +1,7 @@
 ## !! READ BEFORE STARTING !!
+Name: Jaxon Dial
+UTEID: jhd2354
+
 You'll need Node.js 20.9+ for this repo to work. Visit https://nodejs.org to install it on your machine if you haven't already. You can run `node -v` in your terminal to check if it is already installed.
 
 This repo uses `npm` for package management. This should be installed along with Node.js. Run `npm -v` to ensure it is installed.
